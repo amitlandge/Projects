@@ -1,0 +1,55 @@
+[
+    {
+      "id": "p1",
+      "title": "Portfolio Website",
+      "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/Portfolio_ttjrfh.jpg",
+      "description": "My portfolio website is a dynamic and responsive platform designed to showcase my skills, projects, and professional journey as a Full Stack MERN Developer. The website features a sleek, modern interface with sections for About Me, Projects, Contact, and more. Visitors can explore my work, view live projects, and access GitHub repositories directly from the website. It reflects my expertise in creating visually appealing and functional web applications while providing an intuitive and engaging user experience",
+      "category": "Frontend",
+      "deployedLink": "",
+      "frontendGithub": "https://github.com/amitlandge/Portfolio-Frontend",
+      "backendGithub": ""
+    },
+    {
+      "id": "p2",
+      "title": "E-commerce Application",
+      "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/E-commerce_noclci.jpg",
+      "description": "My e-commerce website is a modern and user-friendly platform designed to provide seamless shopping experiences. It includes features such as product browsing, dynamic categories, a shopping cart, order management, and secure checkout. The website emphasizes intuitive navigation and responsiveness to deliver a smooth experience across all devices",
+      "category": "MERN Stack",
+      "deployedLink": "https://e-commerce-mern-app-e5xk.onrender.com/",
+      "frontendGithub": "https://github.com/amitlandge/E-commerce_MERN_App/tree/master/frontend",
+      "backendGithub": "hhttps://github.com/amitlandge/E-commerce_MERN_App"
+    },
+    {
+      "id": "p3",
+      "title": "Real-Time Chat App",
+      "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/chatify_zye8rg.jpg",
+      "description": "My real-time chat application is a dynamic and interactive platform designed to facilitate instant messaging and communication. It features real-time updates, user authentication, and message encryption for secure conversations. The chat app provides a seamless experience for users to connect, chat, and share information in real-time",
+      "category": "MERN Stack",
+      "deployedLink": "https://chatify-frontend-mvow87skl-amitlandges-projects.vercel.app/login",
+      "frontendGithub": "https://github.com/amitlandge/chatify-frontend",
+      "backendGithub": "https://github.com/amitlandge/chatify-backend"
+    },
+    {
+      "id": "p4",
+      "title": "Class Website",
+      "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/Class_e5f5t6.jpg",
+      "description": "My class website is an educational platform designed to provide resources, announcements, and updates for students and teachers. It features sections for courses, assignments, grades, and discussions to facilitate online learning and collaboration. The website emphasizes user-friendly navigation, accessibility, and responsive design to enhance the learning experience",
+      "category": "MERN Stack",
+      "deployedLink": "https://class-webiste-frontend.vercel.app/",
+      "frontendGithub": "https://github.com/amitlandge/Class-Webiste-Frontend",
+      "backendGithub": "https://github.com/amitlandge/Class-Webite-Backend"
+    },
+    {
+      "id": "p5",
+      "title": "Food Order App",
+      "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/food_order_app_v2j7fv.jpg",
+      "description": "My food order app is a mobile-responsive platform designed to streamline the process of ordering food online. It features a user-friendly interface, dynamic menu options. The app provides a seamless experience for users to browse, select, and order food items",
+      "category": "Frontend",
+      "deployedLink": "https://food-order-app-react-three.vercel.app/",
+      "frontendGithub": "https://github.com/amitlandge/Food_Order_App_React",
+      "backendGithub": ""
+    }
+  
+  ]
+  
+  

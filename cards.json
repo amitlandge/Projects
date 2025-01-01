@@ -1,0 +1,24 @@
+[
+    {
+      "id": "c1",
+      "title": "Frontend Development",
+      "icon": "code", 
+      "briefDescription": "I create visually appealing and responsive user interfaces using modern tools and frameworks like React, Tailwind, and Material UI.",
+      "detailedDescription": "Frontend Development involves crafting user-centric interfaces that are both visually appealing and highly functional. My expertise includes using React for dynamic single-page applications, Tailwind CSS for utility-first styling, and Material UI for creating professional and accessible components. I focus on ensuring seamless responsiveness and interactive designs to enhance user engagement."
+    },
+    {
+      "id": "c2",
+      "title": "Full-Stack Development",
+      "icon": "dns", 
+      "briefDescription": "As a full-stack developer, I handle both frontend and backend development to deliver complete and efficient solutions.",
+      "detailedDescription": "Full-Stack Development encompasses creating and managing both client-side and server-side functionalities. I use React and Material UI to develop dynamic UIs, and Node.js, Express.js, and MongoDB for backend logic and database management. I focus on building scalable and robust systems while maintaining code quality and performance."
+    },
+    {
+      "id": "c3",
+      "title": "API Integration",
+      "icon": "integration_instructions", 
+      "briefDescription": "I integrate RESTful APIs and third-party services to enhance application functionality and user experience.",
+      "detailedDescription": "API Integration is crucial for connecting various services and enhancing application functionality. I specialize in integrating RESTful APIs for real-time data exchange and working with third-party services like payment gateways (Stripe, PayPal) and authentication systems. My approach ensures secure, reliable, and efficient integration that boosts user experience."
+    }
+  ]
+  

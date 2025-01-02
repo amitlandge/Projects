@@ -5,6 +5,18 @@
       "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/Portfolio_ttjrfh.jpg",
       "description": "My portfolio website is a dynamic and responsive platform designed to showcase my skills, projects, and professional journey as a Full Stack MERN Developer. The website features a sleek, modern interface with sections for About Me, Projects, Contact, and more. Visitors can explore my work, view live projects, and access GitHub repositories directly from the website. It reflects my expertise in creating visually appealing and functional web applications while providing an intuitive and engaging user experience",
       "category": "Frontend",
+      "keyFeatures": [
+        "Personal project showcase",
+        "Achievements section",
+        "Best MERN stack or full-stack web developer profile",
+        "Responsive design",
+        "Contact form"
+    ],
+    "technologies": [
+        "React",
+        "Material-UI",
+       "React Router"
+    ],
       "deployedLink": "",
       "frontendGithub": "https://github.com/amitlandge/Portfolio-Frontend",
       "backendGithub": ""
@@ -12,6 +24,25 @@
     {
       "id": "p2",
       "title": "E-commerce Application",
+      "keyFeatures": [
+        "User authentication with JWT",
+        "Product filtering and searching",
+        "Cart and checkout functionality",
+        "Integrated Stripe payment gateway",
+        "Admin dashboard for product management",
+        "Responsive design with Material-UI"
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Material-UI",
+        "Redux",
+        "Stripe API",
+        "JWT Authentication",
+        "vercel"
+      ],
       "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/E-commerce_noclci.jpg",
       "description": "My e-commerce website is a modern and user-friendly platform designed to provide seamless shopping experiences. It includes features such as product browsing, dynamic categories, a shopping cart, order management, and secure checkout. The website emphasizes intuitive navigation and responsiveness to deliver a smooth experience across all devices",
       "category": "MERN Stack",
@@ -35,6 +66,25 @@
       "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/Class_e5f5t6.jpg",
       "description": "My class website is an educational platform designed to provide resources, announcements, and updates for students and teachers. It features sections for courses, assignments, grades, and discussions to facilitate online learning and collaboration. The website emphasizes user-friendly navigation, accessibility, and responsive design to enhance the learning experience",
       "category": "MERN Stack",
+      "keyFeatures": [
+        "Real-time messaging with Socket.io",
+        "User authentication with JWT",
+        "Chat rooms for group discussions",
+        "Typing indicators and message timestamps",
+        "Responsive UI with Material UI",
+        "Database storage for message history"
+      ],
+      "technologies": [
+      "React",
+      "Node.js",
+      "Socket.io",
+      "MongoDB",
+      "Material-UI",
+      "JWT Authentication",
+      "Axios",
+      "Razerpay",
+      "Moment.js"
+    ],
       "deployedLink": "https://class-webiste-frontend.vercel.app/",
       "frontendGithub": "https://github.com/amitlandge/Class-Webiste-Frontend",
       "backendGithub": "https://github.com/amitlandge/Class-Webite-Backend"
@@ -45,6 +95,22 @@
       "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/food_order_app_v2j7fv.jpg",
       "description": "My food order app is a mobile-responsive platform designed to streamline the process of ordering food online. It features a user-friendly interface, dynamic menu options. The app provides a seamless experience for users to browse, select, and order food items",
       "category": "Frontend",
+      "keyFeatures": [
+        "Add to cart functionality",
+        "Local storage for order persistence",
+        "Dynamic pricing and quantity updates",
+        
+        "Responsive design",
+        "Frontend-only application"
+      ],
+        "technologies": [
+            "React",
+            "React-router-dom",
+            "React Icons",
+            "Redux",
+            "Vercel"
+        ],
+
       "deployedLink": "https://food-order-app-react-three.vercel.app/",
       "frontendGithub": "https://github.com/amitlandge/Food_Order_App_React",
       "backendGithub": ""

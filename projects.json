@@ -56,6 +56,24 @@
       "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1735733141/chatify_zye8rg.jpg",
       "description": "My real-time chat application is a dynamic and interactive platform designed to facilitate instant messaging and communication. It features real-time updates, user authentication, and message encryption for secure conversations. The chat app provides a seamless experience for users to connect, chat, and share information in real-time",
       "category": "MERN Stack",
+       "keyFeatures": [
+      "Real-time messaging with Socket.io",
+      "User authentication with JWT",
+      "Chat rooms for group discussions",
+      "Typing indicators and message timestamps",
+      "Responsive UI with Material CSS",
+      "Database storage for message history"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Socket.io",
+      "MongoDB",
+      "Material UI",
+      "JWT Authentication",
+      "Axios",
+      "Moment.js"
+    ],
       "deployedLink": "https://chatify-frontend-mvow87skl-amitlandges-projects.vercel.app/login",
       "frontendGithub": "https://github.com/amitlandge/chatify-frontend",
       "backendGithub": "https://github.com/amitlandge/chatify-backend"

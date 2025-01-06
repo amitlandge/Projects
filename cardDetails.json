@@ -2,7 +2,7 @@
     {
       "id": "c1",
       "title": "Frontend Development",
-     
+     "url":"https://res.cloudinary.com/dow92cdi4/image/upload/v1736138000/job-opening-front-end-developer-3d-MP6D15_v522ka.jpg",
       "overview": "Crafting visually appealing and responsive user interfaces.",
       "description": "Frontend Development involves creating user-centric interfaces that are visually appealing and highly functional. Using React, I build dynamic single-page applications. Tailwind CSS and Material UI enhance the design aesthetics and maintain consistency across components. My approach ensures responsiveness, accessibility, and interactive features to improve user engagement.",
       "tools": ["React", "Redux","Tailwind CSS", "Material UI"],
@@ -15,7 +15,7 @@
     {
       "id": "c2",
       "title": "Full-Stack Development",
-      
+      "url":"https://res.cloudinary.com/dow92cdi4/image/upload/v1736138401/AdobeStock_1155793346_Preview_vlvubx.jpg",
       "overview": "Handling both frontend and backend to deliver efficient solutions.",
       "description": "Full-Stack Development combines both client-side and server-side development to deliver complete and robust applications. I use technologies like React for front-end interfaces and Node.js with Express.js for backend logic. MongoDB ensures a reliable and scalable database. My goal is to provide end-to-end solutions that are optimized for performance and scalability.",
       "tools": ["React", "Node.js", "Express.js", "MongoDB"],
@@ -28,7 +28,7 @@
     {
       "id": "c3",
       "title": "API Integration",
-    
+    "url":"https://res.cloudinary.com/dow92cdi4/image/upload/v1736138401/AdobeStock_918206488_Preview_szppx1.jpg",
       "overview": "Integrating APIs and third-party services for seamless functionality.",
       "description": "API Integration is essential for enabling communication between different services. I specialize in integrating RESTful APIs for efficient data exchange and third-party services like payment gateways, authentication systems, and cloud storage. My approach ensures secure, reliable, and efficient integration, enhancing the overall user experience.",
       "tools": ["RESTful APIs", "Stripe", "OAuth", "Axios"],

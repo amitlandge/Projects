@@ -1,4 +1,29 @@
 [
+  {
+    "id": "p7",
+    "title": "Mapify",
+    "thumbnail": "https://res.cloudinary.com/dow92cdi4/image/upload/v1739162356/Mapify_rtwwdp.jpg",
+    "description": "Mapify is an interactive mapping application designed to track and log visited places. Users can click on a map, input details about their visit, such as distance, duration, and Places, and store the data for future reference. The submitted data is displayed on the left side of the interface, while the marked location is highlighted on the map.",
+    "category": "Full Stack",
+    "keyFeatures": [
+        "Interactive map interface",
+        "Form submission for trip details",
+        "Data display panel",
+        "Location marking on the map"
+       
+    ],
+    "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Leaflet.js"
+    ],
+    "deployedLink": "https://mapify-one.vercel.app/",
+    "frontendGithub": "https://github.com/amitlandge/Mapify",
+    "backendGithub": ""
+},
+
+
     {
       "id": "p1",
       "title": "Portfolio Website",
